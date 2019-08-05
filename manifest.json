@@ -1,0 +1,113 @@
+{
+  "files": {
+    "avcodec-58.dll": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "f45d72af6bd89710a6d935523766c56daf2acd4c8cf472e4bef68bbe6aead80f01492bb3476d79fffa6dd712ba3f0857",
+      "size": 33604616
+    },
+    "avformat-58.dll": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "e4bad7b4bbff3f4433de5e974c89f74f4c4a12ad1e62444265e929af5d6a4836310193b388fd2aba747e1f6bda1b8447",
+      "size": 9733640
+    },
+    "avutil-56.dll": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "2c0473925d26b9deac1b8a42214b3ffbbde111bd0d49f822d6a2c85518704c9055bca819512d35feeb0e5ba89b676f46",
+      "size": 775176
+    },
+    "cg.dll": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "9a2a2f39e8209605c46f884aa68514c4b0e3a8e7c47593b2e681550976a7af26fb34419a02f3192caba8c5f747047a80",
+      "size": 8529928
+    },
+    "cgGL.dll": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "a1a95a4c3ad3b40877d3c2fd9bb9e9559226ff46fbabbdfd0a5e2a91b54b8de67671278a93307800ac0f350d24a9063a",
+      "size": 357896
+    },
+    "loonytown.exe": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "fa7e44d059c8ffe182fb65b045ee00a50b8edfb450cb649bb78f7731d48b7fcf6e5e6b1392bd5eb35dff4a29bceb5229",
+      "size": 7227408
+    },
+    "resources/default/phase_10.mf": {
+      "size": 1809171
+    },
+    "resources/default/phase_11.mf": {
+      "size": 2436191
+    },
+    "resources/default/phase_12.mf": {
+      "size": 5398111
+    },
+    "resources/default/phase_13.mf": {
+      "size": 9667528
+    },
+    "resources/default/phase_3.5.mf": {
+      "size": 21862809
+    },
+    "resources/default/phase_3.mf": {
+      "size": 47237399
+    },
+    "resources/default/phase_4.mf": {
+      "size": 47924574
+    },
+    "resources/default/phase_5.5.mf": {
+      "size": 9863984
+    },
+    "resources/default/phase_5.mf": {
+      "size": 68898268
+    },
+    "resources/default/phase_6.mf": {
+      "size": 33068758
+    },
+    "resources/default/phase_7.mf": {
+      "size": 1873636
+    },
+    "resources/default/phase_8.mf": {
+      "size": 20694326
+    },
+    "resources/default/phase_9.mf": {
+      "size": 8996297
+    },
+    "swresample-3.dll": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "606eb073477e73de68fc0606426449705bf0abc493ecdbbd0ae7a7d991b7708c3160dae7e14b999faeffd56d8ca5194b",
+      "size": 318472
+    },
+    "swscale-5.dll": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "a8cb035672599e4b02ea1fe3170ae4efbef7679c0a7d501319730f122eaeadb63928ce2065a6e91366a0e13c7e8bbf4d",
+      "size": 513544
+    },
+    "tooniversal.bin": {
+      "sha384": "175a7cda5d0384987baeec37bb46572238a89dbf8edd8f4a047f471cee61a76d044bf9df58fd1b330b77854430d19f91",
+      "size": 20035612
+    }
+  },
+  "launcherVersions": {
+    "darwin": "1.0.0",
+    "linux": "1.0.0",
+    "win32": "1.0.0"
+  },
+  "outdatedMessage": {
+    "link": "https://loonytownonline.com/play",
+    "message": "Your Loonytown launcher is out of date. Please redownload the latest launcher from our website!"
+  },
+  "removedFiles": []
+}
