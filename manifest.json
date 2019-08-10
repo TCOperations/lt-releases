@@ -1,5 +1,12 @@
 {
   "files": {
+    "Frameworks/Cg.framework/Cg": {
+      "distributions": [
+        "darwin"
+      ],
+      "sha384": "ac72679d3d2a43a4b6e9069522f8ef83439e6eb5b43ddfb8eda2574c34e977d80a2a685bf9e5de6212753a4d12841000",
+      "size": 40936976
+    },
     "avcodec-58.dll": {
       "distributions": [
         "win32"
@@ -41,6 +48,13 @@
       ],
       "sha384": "fa7e44d059c8ffe182fb65b045ee00a50b8edfb450cb649bb78f7731d48b7fcf6e5e6b1392bd5eb35dff4a29bceb5229",
       "size": 7227408
+    },
+    "loonytown_darwin": {
+      "distributions": [
+        "darwin"
+      ],
+      "sha384": "efdb4ab1f46d23f19f6ca3cce1d858246dce3672dbb5bff6e92358bbfc1ce328047b20c5b35e8b0fe29587c9485f1377",
+      "size": 35037900
     },
     "resources/default/phase_10.mf": {
       "size": 1809171
